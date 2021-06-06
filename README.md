@@ -3,7 +3,7 @@ Author: Niveen ALsmadi Version: 1.0.0
 
 ## Problem Domain: 
 
-you should create a functionality that takes customers orders
+ createing a functionality that takes customers orders 
 
 - starting time : 4:00 pm
 
